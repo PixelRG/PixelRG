@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a potential undergrad student, seeking to know and understand electronics.
+I'm looking for help with knowing how to use Arduinos and using C effectively.
 
 <!--
 **PixelRG/PixelRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

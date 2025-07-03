@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a potential undergrad student, seeking to know and understand electronics.
+I'm a potential undergrad student, seeking to understand electronics.
 I'm looking for help with knowing how to use Arduinos and understanding how to use C effectively for embedded technologies.
 
 
